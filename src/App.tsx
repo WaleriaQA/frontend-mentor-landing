@@ -102,7 +102,7 @@ ${message}
             <a href="#technologies">Technologies</a>
             <a href="#features">Features</a>
             <a href="#faq">FAQ</a>
-            <a href="#contact" className="btn btn-nav">Get Started</a>
+            <a href="#contact" className="btn btn-nav">Start Learning Now </a>
           </div>
           <button
             className="mobile-menu-btn"
